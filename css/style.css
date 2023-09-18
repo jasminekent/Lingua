@@ -1304,3 +1304,9 @@
     margin-bottom: 0px;
 
 }
+
+@media screen and (max-width: 800px) {
+    .LINGUA {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
