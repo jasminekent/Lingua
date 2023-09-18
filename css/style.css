@@ -23,7 +23,7 @@
     height: 794px;
     top: 5723px;
     left: 0;
-    background-image: url(./img/Rectangle.60.png);
+    background-image: url(/images/Rectangle.60.png);
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -174,7 +174,7 @@
     height: 1216px;
     top: 0;
     left: 0;
-    background-image: url(./img/image.10.png);
+    background-image: url(/images/image.10.png);
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -903,7 +903,7 @@
     position: relative;
     width: 665.92px;
     height: 516px;
-    background-image: url(./img/f69174257e32db7d6fd0e0f960083632.gif);
+    background-image: url(./images/f69174257e32db7d6fd0e0f960083632.gif);
     background-size: 100% 100%;
 }
 
